@@ -1,0 +1,22 @@
+{
+  "name": "zoptics-backend",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theiss12/zoptics-backend.git"
+  },
+  "author": "Tamas Zeiss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theiss12/zoptics-backend/issues"
+  },
+  "homepage": "https://github.com/theiss12/zoptics-backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
