@@ -7,7 +7,8 @@ const apiEndpoints = [
   { endpoint: "/api/products", resource: "./data/products.json" },
   { endpoint: "/api/product-groups", resource: "./data/productGroups.json" },
   { endpoint: "/api/articles", resource: "./data/articles.json" },
-  { endpoint: "/api/terms", resource: "./data/terms.json" }
+  { endpoint: "/api/terms", resource: "./data/terms.json" },
+  { endpoint: "/api/data-protection", resource: "./data/data-protection.json" }
 ];
 
 app.listen(port, () => {
