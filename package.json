@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/theiss12/zoptics-backend#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0"
   }
 }
